@@ -1,0 +1,11 @@
+/* public/styles.css */
+
+body {
+    background-color: #f00; /* colore di sfondo rosso */
+}
+
+h1 {
+    color: #00f; /* colore del testo blu */
+}
+
+/* Aggiungi più regole CSS simili per aumentare le dimensioni del file */
